@@ -1,0 +1,266 @@
+F:\AG-131\Seeley_lab2\GameApp\GameApp\GameApp\bin\x86\Debug\GameApp.exe
+F:\AG-131\Seeley_lab2\GameApp\GameApp\GameApp\bin\x86\Debug\GameApp.pdb
+F:\AG-131\Seeley_lab2\GameApp\GameApp\GameApp\obj\x86\Debug\GameApp.csprojResolveAssemblyReference.cache
+F:\AG-131\Seeley_lab2\GameApp\GameApp\GameApp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\AG-131\Seeley_lab2\GameApp\GameApp\GameApp\obj\x86\Debug\GameApp.exe
+F:\AG-131\Seeley_lab2\GameApp\GameApp\GameApp\obj\x86\Debug\GameApp.pdb
+F:\AG_131\Seeley_lab2\GameApp\GameApp\GameApp\obj\x86\Debug\GameApp.csprojResolveAssemblyReference.cache
+F:\AG_131\Seeley_lab2\GameApp\GameApp\GameApp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\AG_131\Seeley_lab2\GameApp\GameApp\GameApp\obj\x86\Debug\GameApp.exe
+F:\AG_131\Seeley_lab2\GameApp\GameApp\GameApp\bin\x86\Debug\Content\hurty.xnb
+F:\AG_131\Seeley_lab2\GameApp\GameApp\GameApp\bin\x86\Debug\Content\ouchy.xnb
+F:\AG_131\Seeley_lab2\GameApp\GameApp\GameApp\bin\x86\Debug\Content\TrollCar.xnb
+F:\AG_131\Seeley_lab2\GameApp\GameApp\GameApp\bin\x86\Debug\Content\yucky.xnb
+F:\AG_131\Seeley_lab2\GameApp\GameApp\GameApp\bin\x86\Debug\GameApp.exe
+F:\AG_131\Seeley_lab2\GameApp\GameApp\GameApp\bin\x86\Debug\GameApp.pdb
+F:\AG_131\Seeley_lab2\GameApp\GameApp\GameApp\obj\x86\Debug\GameApp.pdb
+F:\AG_131\Seeley_lab2\Lab2_3\GameApp\GameApp\bin\x86\Debug\Content\hurty.xnb
+F:\AG_131\Seeley_lab2\Lab2_3\GameApp\GameApp\bin\x86\Debug\Content\ouchy.xnb
+F:\AG_131\Seeley_lab2\Lab2_3\GameApp\GameApp\bin\x86\Debug\Content\TrollCar.xnb
+F:\AG_131\Seeley_lab2\Lab2_3\GameApp\GameApp\bin\x86\Debug\Content\yucky.xnb
+F:\AG_131\Seeley_lab2\Lab2_3\GameApp\GameApp\bin\x86\Debug\GameApp.exe
+F:\AG_131\Seeley_lab2\Lab2_3\GameApp\GameApp\bin\x86\Debug\GameApp.pdb
+F:\AG_131\Seeley_lab2\Lab2_3\GameApp\GameApp\obj\x86\Debug\GameApp.csprojResolveAssemblyReference.cache
+F:\AG_131\Seeley_lab2\Lab2_3\GameApp\GameApp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\AG_131\Seeley_lab2\Lab2_3\GameApp\GameApp\obj\x86\Debug\GameApp.exe
+F:\AG_131\Seeley_lab2\Lab2_3\GameApp\GameApp\obj\x86\Debug\GameApp.pdb
+F:\AG_131\Seeley_lab3\Lab2_3\GameApp\GameApp\bin\x86\Debug\GameApp.exe
+F:\AG_131\Seeley_lab3\Lab2_3\GameApp\GameApp\bin\x86\Debug\GameApp.pdb
+F:\AG_131\Seeley_lab3\Lab2_3\GameApp\GameApp\obj\x86\Debug\GameApp.csprojResolveAssemblyReference.cache
+F:\AG_131\Seeley_lab3\Lab2_3\GameApp\GameApp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\AG_131\Seeley_lab3\Lab2_3\GameApp\GameApp\obj\x86\Debug\GameApp.exe
+F:\AG_131\Seeley_lab3\Lab2_3\GameApp\GameApp\obj\x86\Debug\GameApp.pdb
+F:\AG_131\Seeley_lab3\Lab2_3\GameApp\GameApp\bin\x86\Debug\Content\MulticolorTanks.xnb
+F:\AG_131\Seeley_lab3\Lab2_3\GameApp\GameApp\bin\x86\Debug\Content\wowcursor.xnb
+F:\AG_131\Seeley_lab3\Lab3Files\GameApp\GameApp\bin\x86\Debug\Content\MulticolorTanks.xnb
+F:\AG_131\Seeley_lab3\Lab3Files\GameApp\GameApp\bin\x86\Debug\Content\wowcursor.xnb
+F:\AG_131\Seeley_lab3\Lab3Files\GameApp\GameApp\bin\x86\Debug\Content\PointA.xnb
+F:\AG_131\Seeley_lab3\Lab3Files\GameApp\GameApp\bin\x86\Debug\Content\PointB.xnb
+F:\AG_131\Seeley_lab3\Lab3Files\GameApp\GameApp\bin\x86\Debug\GameApp.exe
+F:\AG_131\Seeley_lab3\Lab3Files\GameApp\GameApp\bin\x86\Debug\GameApp.pdb
+F:\AG_131\Seeley_lab3\Lab3Files\GameApp\GameApp\obj\x86\Debug\GameApp.csprojResolveAssemblyReference.cache
+F:\AG_131\Seeley_lab3\Lab3Files\GameApp\GameApp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\AG_131\Seeley_lab3\Lab3Files\GameApp\GameApp\obj\x86\Debug\GameApp.exe
+F:\AG_131\Seeley_lab3\Lab3Files\GameApp\GameApp\obj\x86\Debug\GameApp.pdb
+F:\AG_131\Seeley_lab3\Lab3Files\GameApp\GameApp\bin\x86\Debug\Content\Player.xnb
+F:\AG_131\Seeley_lab3\Lab3Files\GameApp\GameApp\bin\x86\Debug\Content\TheFont.xnb
+G:\AG_131\Seeley_lab3\Lab3Files\GameApp\GameApp\bin\x86\Debug\Content\MulticolorTanks.xnb
+G:\AG_131\Seeley_lab3\Lab3Files\GameApp\GameApp\bin\x86\Debug\Content\wowcursor.xnb
+G:\AG_131\Seeley_lab3\Lab3Files\GameApp\GameApp\bin\x86\Debug\Content\PointA.xnb
+G:\AG_131\Seeley_lab3\Lab3Files\GameApp\GameApp\bin\x86\Debug\Content\PointB.xnb
+G:\AG_131\Seeley_lab3\Lab3Files\GameApp\GameApp\bin\x86\Debug\Content\Player.xnb
+G:\AG_131\Seeley_lab3\Lab3Files\GameApp\GameApp\bin\x86\Debug\Content\TheFont.xnb
+G:\AG_131\Seeley_lab3\Lab3Files\GameApp\GameApp\bin\x86\Debug\GameApp.exe
+G:\AG_131\Seeley_lab3\Lab3Files\GameApp\GameApp\bin\x86\Debug\GameApp.pdb
+G:\AG_131\Seeley_lab3\Lab3Files\GameApp\GameApp\obj\x86\Debug\GameApp.csprojResolveAssemblyReference.cache
+G:\AG_131\Seeley_lab3\Lab3Files\GameApp\GameApp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\AG_131\Seeley_lab3\Lab3Files\GameApp\GameApp\obj\x86\Debug\GameApp.exe
+G:\AG_131\Seeley_lab3\Lab3Files\GameApp\GameApp\obj\x86\Debug\GameApp.pdb
+F:\AG_131\Seeley_lab4\GameApp\GameApp\bin\x86\Debug\Content\TheFont.xnb
+F:\AG_131\Seeley_lab4\GameApp\GameApp\bin\x86\Debug\GameApp.exe
+F:\AG_131\Seeley_lab4\GameApp\GameApp\bin\x86\Debug\GameApp.pdb
+F:\AG_131\Seeley_lab4\GameApp\GameApp\obj\x86\Debug\GameApp.csprojResolveAssemblyReference.cache
+F:\AG_131\Seeley_lab4\GameApp\GameApp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\AG_131\Seeley_lab4\GameApp\GameApp\obj\x86\Debug\GameApp.exe
+F:\AG_131\Seeley_lab4\GameApp\GameApp\obj\x86\Debug\GameApp.pdb
+F:\AG_131\Seeley_lab4\GameApp\GameApp\bin\x86\Debug\Content\threerings.xnb
+F:\AG_131\Seeley_lab4\GameApp\GameApp\bin\x86\Debug\Content\plus.xnb
+F:\AG_131\Seeley_lab4\GameApp\GameApp\bin\x86\Debug\Content\PointA.xnb
+F:\AG_131\Seeley_lab4\GameApp\GameApp\bin\x86\Debug\Content\Player.xnb
+F:\AG_131\Seeley_lab4\GameApp\GameApp\bin\x86\Debug\Content\MulticolorTanks.xnb
+F:\AG_131\Seeley_lab5\GameApp\GameApp\bin\x86\Debug\Content\TheFont.xnb
+F:\AG_131\Seeley_lab5\GameApp\GameApp\bin\x86\Debug\GameApp.exe
+F:\AG_131\Seeley_lab5\GameApp\GameApp\bin\x86\Debug\GameApp.pdb
+F:\AG_131\Seeley_lab5\GameApp\GameApp\obj\x86\Debug\GameApp.csprojResolveAssemblyReference.cache
+F:\AG_131\Seeley_lab5\GameApp\GameApp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\AG_131\Seeley_lab5\GameApp\GameApp\obj\x86\Debug\GameApp.exe
+F:\AG_131\Seeley_lab5\GameApp\GameApp\obj\x86\Debug\GameApp.pdb
+F:\AG_131\Seeley_lab5\GameApp\GameApp\bin\x86\Debug\Content\Turretsm.xnb
+F:\AG_131\Seeley_lab5\GameApp\GameApp\bin\x86\Debug\Content\Tanksm.xnb
+G:\AG_131\Seeley_lab6\GameApp\GameApp\bin\x86\Debug\Content\TheFont.xnb
+G:\AG_131\Seeley_lab6\GameApp\GameApp\bin\x86\Debug\Content\Turretsm.xnb
+G:\AG_131\Seeley_lab6\GameApp\GameApp\bin\x86\Debug\Content\Tanksm.xnb
+G:\AG_131\Seeley_lab6\GameApp\GameApp\bin\x86\Debug\GameApp.exe
+G:\AG_131\Seeley_lab6\GameApp\GameApp\bin\x86\Debug\GameApp.pdb
+G:\AG_131\Seeley_lab6\GameApp\GameApp\obj\x86\Debug\GameApp.csprojResolveAssemblyReference.cache
+G:\AG_131\Seeley_lab6\GameApp\GameApp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\AG_131\Seeley_lab6\GameApp\GameApp\obj\x86\Debug\GameApp.exe
+G:\AG_131\Seeley_lab6\GameApp\GameApp\obj\x86\Debug\GameApp.pdb
+F:\AG_131\Seeley_lab6\GameApp\GameApp\bin\x86\Debug\Content\TheFont.xnb
+F:\AG_131\Seeley_lab6\GameApp\GameApp\bin\x86\Debug\Content\Tanksm.xnb
+F:\AG_131\Seeley_lab6\GameApp\GameApp\bin\x86\Debug\Content\Turretsm.xnb
+F:\AG_131\Seeley_lab6\GameApp\GameApp\bin\x86\Debug\GameApp.exe
+F:\AG_131\Seeley_lab6\GameApp\GameApp\bin\x86\Debug\GameApp.pdb
+F:\AG_131\Seeley_lab6\GameApp\GameApp\obj\x86\Debug\GameApp.csprojResolveAssemblyReference.cache
+F:\AG_131\Seeley_lab6\GameApp\GameApp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\AG_131\Seeley_lab6\GameApp\GameApp\obj\x86\Debug\GameApp.exe
+F:\AG_131\Seeley_lab6\GameApp\GameApp\obj\x86\Debug\GameApp.pdb
+F:\AG_131\Seeley_lab6\GameApp\GameApp\bin\x86\Debug\Content\Misslesm.xnb
+F:\AG_131\Seeley_lab6\GameApp\GameApp\bin\x86\Debug\Content\GunShot.xnb
+F:\AG_131\Seeley_lab6\GameApp\GameApp\bin\x86\Debug\Content\TheSong.xnb
+F:\AG_131\Seeley_lab6\GameApp\GameApp\bin\x86\Debug\Content\TheSong.wma
+E:\AG_131\Seeley_lab6\GameApp\GameApp\bin\x86\Debug\Content\TheFont.xnb
+E:\AG_131\Seeley_lab6\GameApp\GameApp\bin\x86\Debug\Content\Tanksm.xnb
+E:\AG_131\Seeley_lab6\GameApp\GameApp\bin\x86\Debug\Content\Turretsm.xnb
+E:\AG_131\Seeley_lab6\GameApp\GameApp\bin\x86\Debug\Content\Misslesm.xnb
+E:\AG_131\Seeley_lab6\GameApp\GameApp\bin\x86\Debug\Content\GunShot.xnb
+E:\AG_131\Seeley_lab6\GameApp\GameApp\bin\x86\Debug\Content\TheSong.xnb
+E:\AG_131\Seeley_lab6\GameApp\GameApp\bin\x86\Debug\Content\TheSong.wma
+E:\AG_131\Seeley_lab6\GameApp\GameApp\bin\x86\Debug\GameApp.exe
+E:\AG_131\Seeley_lab6\GameApp\GameApp\bin\x86\Debug\GameApp.pdb
+E:\AG_131\Seeley_lab6\GameApp\GameApp\obj\x86\Debug\GameApp.csprojResolveAssemblyReference.cache
+E:\AG_131\Seeley_lab6\GameApp\GameApp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\AG_131\Seeley_lab6\GameApp\GameApp\obj\x86\Debug\GameApp.exe
+E:\AG_131\Seeley_lab6\GameApp\GameApp\obj\x86\Debug\GameApp.pdb
+F:\AG_131\Lab08 - TechDemo\GameApp\GameApp\obj\x86\Debug\GameApp.csprojResolveAssemblyReference.cache
+F:\AG_131\Lab08 - TechDemo\GameApp\GameApp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\AG_131\Lab08 - TechDemo\GameApp\GameApp\obj\x86\Debug\GameApp.exe
+F:\AG_131\Lab08 - TechDemo\GameApp\GameApp\obj\x86\Debug\GameApp.pdb
+F:\AG_131\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\TheFont.xnb
+F:\AG_131\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\GameApp.exe
+F:\AG_131\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\GameApp.pdb
+F:\AG_131\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\RunicKnight.xnb
+F:\AG_131\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\RunicKnightWalking.xnb
+F:\AG_131\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\FloorTile.xnb
+F:\AG_131\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\WallGrate.xnb
+F:\AG_131\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\ClericWalking.xnb
+F:\AG_131\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\DragonBorne.xnb
+F:\AG_131\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\DragonBorneWalking.xnb
+F:\AG_131\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\Huntress.xnb
+F:\AG_131\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\HuntressWalking.xnb
+F:\AG_131\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\Cleric.xnb
+F:\AG_131\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\FloorTile2.xnb
+F:\AG_131\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\FloorTile3.xnb
+F:\AG_131\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\FloorTile4.xnb
+F:\AG_131\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\FloorTile5.xnb
+F:\AG_131\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\FloorTile6.xnb
+H:\Second Semester\AG_131\Final Project\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\TheFont.xnb
+H:\Second Semester\AG_131\Final Project\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\RunicKnight.xnb
+H:\Second Semester\AG_131\Final Project\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\RunicKnightWalking.xnb
+H:\Second Semester\AG_131\Final Project\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\WallGrate.xnb
+H:\Second Semester\AG_131\Final Project\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\ClericWalking.xnb
+H:\Second Semester\AG_131\Final Project\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\DragonBorne.xnb
+H:\Second Semester\AG_131\Final Project\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\DragonBorneWalking.xnb
+H:\Second Semester\AG_131\Final Project\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\Huntress.xnb
+H:\Second Semester\AG_131\Final Project\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\HuntressWalking.xnb
+H:\Second Semester\AG_131\Final Project\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\Cleric.xnb
+H:\Second Semester\AG_131\Final Project\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\GameApp.exe
+H:\Second Semester\AG_131\Final Project\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\GameApp.pdb
+H:\Second Semester\AG_131\Final Project\Lab08 - TechDemo\GameApp\GameApp\obj\x86\Debug\GameApp.csprojResolveAssemblyReference.cache
+H:\Second Semester\AG_131\Final Project\Lab08 - TechDemo\GameApp\GameApp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Second Semester\AG_131\Final Project\Lab08 - TechDemo\GameApp\GameApp\obj\x86\Debug\GameApp.exe
+H:\Second Semester\AG_131\Final Project\Lab08 - TechDemo\GameApp\GameApp\obj\x86\Debug\GameApp.pdb
+H:\Second Semester\AG_131\Final Project\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile.xnb
+H:\Second Semester\AG_131\Final Project\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile2.xnb
+H:\Second Semester\AG_131\Final Project\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile3.xnb
+H:\Second Semester\AG_131\Final Project\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile4.xnb
+H:\Second Semester\AG_131\Final Project\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile5.xnb
+H:\Second Semester\AG_131\Final Project\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile6.xnb
+H:\Second Semester\AG_131\Final Project\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile7.xnb
+H:\Second Semester\AG_131\Final Project\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile8.xnb
+H:\Second Semester\AG_131\Final Project\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile9.xnb
+H:\Second Semester\AG_131\Final Project\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile10.xnb
+G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\TheFont.xnb
+G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\RunicKnight.xnb
+G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\RunicKnightWalking.xnb
+G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\WallGrate.xnb
+G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\ClericWalking.xnb
+G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\DragonBorne.xnb
+G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\DragonBorneWalking.xnb
+G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\Huntress.xnb
+G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\HuntressWalking.xnb
+G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\Cleric.xnb
+G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile.xnb
+G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile2.xnb
+G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile3.xnb
+G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile4.xnb
+G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile5.xnb
+G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile6.xnb
+G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile7.xnb
+G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile8.xnb
+G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile9.xnb
+G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile10.xnb
+G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\GameApp.exe
+G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\GameApp.pdb
+G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\obj\x86\Debug\GameApp.csprojResolveAssemblyReference.cache
+G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\obj\x86\Debug\GameApp.exe
+G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\obj\x86\Debug\GameApp.pdb
+C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\TheFont.xnb
+C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\RunicKnight.xnb
+C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\RunicKnightWalking.xnb
+C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\WallGrate.xnb
+C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\ClericWalking.xnb
+C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\DragonBorne.xnb
+C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\DragonBorneWalking.xnb
+C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\Huntress.xnb
+C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\HuntressWalking.xnb
+C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\Cleric.xnb
+C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile.xnb
+C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile2.xnb
+C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile3.xnb
+C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile4.xnb
+C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile5.xnb
+C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile6.xnb
+C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile7.xnb
+C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile8.xnb
+C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile9.xnb
+C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile10.xnb
+C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\GameApp.exe
+C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\GameApp.pdb
+C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\obj\x86\Debug\GameApp.csprojResolveAssemblyReference.cache
+C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\obj\x86\Debug\GameApp.exe
+C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\obj\x86\Debug\GameApp.pdb
+C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\TheFont.xnb
+C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\RunicKnight.xnb
+C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\RunicKnightWalking.xnb
+C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\WallGrate.xnb
+C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\ClericWalking.xnb
+C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\DragonBorne.xnb
+C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\DragonBorneWalking.xnb
+C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\Huntress.xnb
+C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\HuntressWalking.xnb
+C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\Cleric.xnb
+C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile.xnb
+C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile2.xnb
+C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile3.xnb
+C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile4.xnb
+C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile5.xnb
+C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile6.xnb
+C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile7.xnb
+C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile8.xnb
+C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile9.xnb
+C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile10.xnb
+C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\GameApp.exe
+C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\GameApp.pdb
+C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\obj\x86\Debug\GameApp.csprojResolveAssemblyReference.cache
+C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\obj\x86\Debug\GameApp.exe
+C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameApp\obj\x86\Debug\GameApp.pdb
+F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\gameapp\bin\x86\Debug\Content\TheFont.xnb
+F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\gameapp\bin\x86\Debug\Content\playerSprites\RunicKnight.xnb
+F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\gameapp\bin\x86\Debug\Content\playerSprites\RunicKnightWalking.xnb
+F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\gameapp\bin\x86\Debug\Content\WallGrate.xnb
+F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\gameapp\bin\x86\Debug\Content\playerSprites\ClericWalking.xnb
+F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\gameapp\bin\x86\Debug\Content\playerSprites\DragonBorne.xnb
+F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\gameapp\bin\x86\Debug\Content\playerSprites\DragonBorneWalking.xnb
+F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\gameapp\bin\x86\Debug\Content\playerSprites\Huntress.xnb
+F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\gameapp\bin\x86\Debug\Content\playerSprites\HuntressWalking.xnb
+F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\gameapp\bin\x86\Debug\Content\playerSprites\Cleric.xnb
+F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\gameapp\bin\x86\Debug\Content\room\floor\FloorTile.xnb
+F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\gameapp\bin\x86\Debug\Content\room\floor\FloorTile2.xnb
+F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\gameapp\bin\x86\Debug\Content\room\floor\FloorTile3.xnb
+F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\gameapp\bin\x86\Debug\Content\room\floor\FloorTile4.xnb
+F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\gameapp\bin\x86\Debug\Content\room\floor\FloorTile5.xnb
+F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\gameapp\bin\x86\Debug\Content\room\floor\FloorTile6.xnb
+F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\gameapp\bin\x86\Debug\Content\room\floor\FloorTile7.xnb
+F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\gameapp\bin\x86\Debug\Content\room\floor\FloorTile8.xnb
+F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\gameapp\bin\x86\Debug\Content\room\floor\FloorTile9.xnb
+F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\gameapp\bin\x86\Debug\Content\room\floor\FloorTile10.xnb
+F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\gameapp\bin\x86\Debug\GameApp.exe
+F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\gameapp\bin\x86\Debug\GameApp.pdb
+F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\gameapp\obj\x86\Debug\GameApp.csprojResolveAssemblyReference.cache
+F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\gameapp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\gameapp\obj\x86\Debug\GameApp.exe
+F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\gameapp\obj\x86\Debug\GameApp.pdb
