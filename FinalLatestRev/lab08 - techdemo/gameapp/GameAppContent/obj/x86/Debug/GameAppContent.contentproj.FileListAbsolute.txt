@@ -15,3 +15,4 @@ G:\AG_131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameAppContent\obj\x86\Debug\G
 C:\Users\NHTI\Desktop\FinalLatestRev\Lab08 - TechDemo\GameApp\GameAppContent\obj\x86\Debug\GameAppContent.contentprojResolveAssemblyReference.cache
 C:\Users\NHTI\Dropbox\AG131\FinalLatestRev\Lab08 - TechDemo\GameApp\GameAppContent\obj\x86\Debug\GameAppContent.contentprojResolveAssemblyReference.cache
 F:\AG_131\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\GameAppContent\obj\x86\Debug\GameAppContent.contentprojResolveAssemblyReference.cache
+C:\Users\NHTI\Desktop\FinalLatestRev\FinalLatestRev\lab08 - techdemo\gameapp\GameAppContent\obj\x86\Debug\GameAppContent.contentprojResolveAssemblyReference.cache

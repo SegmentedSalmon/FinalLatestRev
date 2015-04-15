@@ -17,6 +17,8 @@ namespace Engine
         SpriteBatch spriteBatch;
 
         GameLevel Map;
+        Sprite Border;
+        Viewport defaultView;
         
         List<Player> playerList;
         List<Viewport> viewportList;
@@ -76,10 +78,18 @@ namespace Engine
             {
                 cameraList.Add(new Camera());
             }
+
+            //Border setup
+
+            defaultView = GraphicsDevice.Viewport;
+
+            Border = new Sprite("Border", new Vector2(820, 525), Content);
         }
         
         protected override void LoadContent()
         {
+            //Border = Content.Load<Sprite>("Border");
+            //Border = new Sprite("Border", new Vector2(0,0), Content);
         }
 
         protected override void UnloadContent()
@@ -116,6 +126,12 @@ namespace Engine
                 GraphicsDevice.Viewport = viewportList[i];
                 DrawSprites(gameTime, cameraList[i]);
             }
+
+            GraphicsDevice.Viewport = defaultView;
+
+            spriteBatch.Begin();
+            Border.Draw(gameTime, spriteBatch);
+            spriteBatch.End();
 
             base.Draw(gameTime);
         }
