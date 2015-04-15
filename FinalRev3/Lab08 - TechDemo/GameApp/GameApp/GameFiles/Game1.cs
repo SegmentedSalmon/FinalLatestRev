@@ -82,16 +82,12 @@ namespace Engine
             }
 
             //Border setup
-
             defaultView = GraphicsDevice.Viewport;
-
             Border = new Sprite("Border", new Vector2(820, 525), Content);
         }
         
         protected override void LoadContent()
         {
-            //Border = Content.Load<Sprite>("Border");
-            //Border = new Sprite("Border", new Vector2(0,0), Content);
         }
 
         protected override void UnloadContent()
