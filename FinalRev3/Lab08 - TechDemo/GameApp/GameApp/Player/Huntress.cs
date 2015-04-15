@@ -36,8 +36,8 @@ namespace Engine
             _speed = 4;
             _specialManaCost = 100;
             _critChance = .05f;
-            classSpriteWalking = new SpriteSheet("playerSprites/red/HuntressWalking", 1, 2, new Vector2(96, 96), 140, _Content);
-            classSpriteIdle = new Sprite("playerSprites/red/Huntress", new Vector2(96, 96), _Content);
+            classSpriteWalking = new SpriteSheet("playerSprites/yellow/HuntressWalking", 1, 2, new Vector2(96, 96), 140, _Content);
+            classSpriteIdle = new Sprite("playerSprites/yellow/Huntress", new Vector2(96, 96), _Content);
             spritePosition = classSpriteIdle._position;
 
             if (index == "One")
