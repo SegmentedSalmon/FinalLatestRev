@@ -7,13 +7,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\TheFont.xnb</Output>
-      <Time>2015-04-15T19:07:31.0604703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\TheFont.xnb</Output>
       <Time>2015-04-15T19:17:00.6809276-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>room\bwall\WallGrate.png</Source>
@@ -21,13 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\bwall\WallGrate.xnb</Output>
-      <Time>2015-04-15T19:07:31.0504703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\bwall\WallGrate.xnb</Output>
       <Time>2015-04-15T19:17:00.7079303-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>room\floor\FloorTile.png</Source>
@@ -35,13 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile.xnb</Output>
-      <Time>2015-04-15T19:07:31.0504703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile.xnb</Output>
       <Time>2015-04-15T19:17:00.7079303-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>room\floor\FloorTile2.png</Source>
@@ -49,13 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile2.xnb</Output>
-      <Time>2015-04-15T19:07:31.0484703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile2.xnb</Output>
       <Time>2015-04-15T19:17:00.7089304-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>room\floor\FloorTile3.png</Source>
@@ -63,13 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile3.xnb</Output>
-      <Time>2015-04-15T19:07:31.0484703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile3.xnb</Output>
       <Time>2015-04-15T19:17:00.7089304-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>room\floor\FloorTile4.png</Source>
@@ -77,13 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile4.xnb</Output>
-      <Time>2015-04-15T19:07:31.0474703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile4.xnb</Output>
       <Time>2015-04-15T19:17:00.7099305-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>room\floor\FloorTile5.png</Source>
@@ -91,13 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile5.xnb</Output>
-      <Time>2015-04-15T19:07:31.0464703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile5.xnb</Output>
       <Time>2015-04-15T19:17:00.7099305-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>room\floor\FloorTile6.png</Source>
@@ -105,13 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile6.xnb</Output>
-      <Time>2015-04-15T19:07:31.0464703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile6.xnb</Output>
       <Time>2015-04-15T19:17:00.7099305-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\blue\Cleric.png</Source>
@@ -119,13 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\Cleric.xnb</Output>
-      <Time>2015-04-15T19:07:30.8564703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\Cleric.xnb</Output>
       <Time>2015-04-15T19:17:00.6839279-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\blue\ClericAttack.png</Source>
@@ -133,13 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\ClericAttack.xnb</Output>
-      <Time>2015-04-15T19:07:30.8564703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\ClericAttack.xnb</Output>
       <Time>2015-04-15T19:17:00.684928-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\blue\ClericTombstone.png</Source>
@@ -147,13 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\ClericTombstone.xnb</Output>
-      <Time>2015-04-15T19:07:30.8574703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\ClericTombstone.xnb</Output>
       <Time>2015-04-15T19:17:00.684928-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\blue\ClericWalking.png</Source>
@@ -161,13 +106,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\ClericWalking.xnb</Output>
-      <Time>2015-04-15T19:07:30.8584703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\ClericWalking.xnb</Output>
       <Time>2015-04-15T19:17:00.6859281-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\blue\DragonBorne.png</Source>
@@ -175,13 +115,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\DragonBorne.xnb</Output>
-      <Time>2015-04-15T19:07:30.8584703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\DragonBorne.xnb</Output>
       <Time>2015-04-15T19:17:00.6859281-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\blue\DragonBorneAttack.png</Source>
@@ -189,13 +124,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\DragonBorneAttack.xnb</Output>
-      <Time>2015-04-15T19:07:30.8584703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\DragonBorneAttack.xnb</Output>
       <Time>2015-04-15T19:17:00.6859281-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\blue\DragonBorneTombstone.png</Source>
@@ -203,13 +133,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\DragonBorneTombstone.xnb</Output>
-      <Time>2015-04-15T19:07:30.8594703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\DragonBorneTombstone.xnb</Output>
       <Time>2015-04-15T19:17:00.6869282-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\blue\DragonBorneWalking.png</Source>
@@ -217,13 +142,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\DragonBorneWalking.xnb</Output>
-      <Time>2015-04-15T19:07:30.8594703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\DragonBorneWalking.xnb</Output>
       <Time>2015-04-15T19:17:00.6869282-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\blue\Huntress.png</Source>
@@ -231,13 +151,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\Huntress.xnb</Output>
-      <Time>2015-04-15T19:07:30.8594703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\Huntress.xnb</Output>
       <Time>2015-04-15T19:17:00.6869282-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\blue\HuntressAttack.png</Source>
@@ -245,13 +160,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\HuntressAttack.xnb</Output>
-      <Time>2015-04-15T19:07:30.8604703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\HuntressAttack.xnb</Output>
       <Time>2015-04-15T19:17:00.6879283-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\blue\HuntressTombstone.png</Source>
@@ -259,13 +169,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\HuntressTombstone.xnb</Output>
-      <Time>2015-04-15T19:07:30.8604703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\HuntressTombstone.xnb</Output>
       <Time>2015-04-15T19:17:00.6879283-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\blue\HuntressWalking.png</Source>
@@ -273,13 +178,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\HuntressWalking.xnb</Output>
-      <Time>2015-04-15T19:07:30.8614703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\HuntressWalking.xnb</Output>
       <Time>2015-04-15T19:17:00.6879283-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\blue\RunicKnight.png</Source>
@@ -287,13 +187,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\RunicKnight.xnb</Output>
-      <Time>2015-04-15T19:07:30.8614703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\RunicKnight.xnb</Output>
       <Time>2015-04-15T19:17:00.6889284-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\blue\RunicKnightAttack.png</Source>
@@ -301,13 +196,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\RunicKnightAttack.xnb</Output>
-      <Time>2015-04-15T19:07:30.8614703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\RunicKnightAttack.xnb</Output>
       <Time>2015-04-15T19:17:00.6889284-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\blue\RunicKnightTombstone.png</Source>
@@ -315,13 +205,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\RunicKnightTombstone.xnb</Output>
-      <Time>2015-04-15T19:07:30.8624703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\RunicKnightTombstone.xnb</Output>
       <Time>2015-04-15T19:17:00.6889284-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\blue\RunicKnightWalking.png</Source>
@@ -329,13 +214,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\RunicKnightWalking.xnb</Output>
-      <Time>2015-04-15T19:07:30.8624703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\blue\RunicKnightWalking.xnb</Output>
       <Time>2015-04-15T19:17:00.6899285-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>room\floor\FloorTile7.png</Source>
@@ -343,13 +223,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile7.xnb</Output>
-      <Time>2015-04-15T19:07:31.0454703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile7.xnb</Output>
       <Time>2015-04-15T19:17:00.7109306-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>room\floor\FloorTile8.png</Source>
@@ -357,13 +232,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile8.xnb</Output>
-      <Time>2015-04-15T19:07:31.0454703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile8.xnb</Output>
       <Time>2015-04-15T19:17:00.7109306-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>room\floor\FloorTile9.png</Source>
@@ -371,13 +241,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile9.xnb</Output>
-      <Time>2015-04-15T19:07:31.0444703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile9.xnb</Output>
       <Time>2015-04-15T19:17:00.7109306-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>room\floor\FloorTile10.png</Source>
@@ -385,13 +250,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile10.xnb</Output>
-      <Time>2015-04-15T19:07:31.0494703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\floor\FloorTile10.xnb</Output>
       <Time>2015-04-15T19:17:00.7089304-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\green\Cleric.png</Source>
@@ -399,13 +259,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\Cleric.xnb</Output>
-      <Time>2015-04-15T19:07:30.8634703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\Cleric.xnb</Output>
       <Time>2015-04-15T19:17:00.6899285-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\green\ClericAttack.png</Source>
@@ -413,13 +268,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\ClericAttack.xnb</Output>
-      <Time>2015-04-15T19:07:30.8634703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\ClericAttack.xnb</Output>
       <Time>2015-04-15T19:17:00.6909286-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\green\ClericTombstone.png</Source>
@@ -427,13 +277,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\ClericTombstone.xnb</Output>
-      <Time>2015-04-15T19:07:30.8644703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\ClericTombstone.xnb</Output>
       <Time>2015-04-15T19:17:00.6909286-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\green\ClericWalking.png</Source>
@@ -441,13 +286,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\ClericWalking.xnb</Output>
-      <Time>2015-04-15T19:07:30.8644703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\ClericWalking.xnb</Output>
       <Time>2015-04-15T19:17:00.6909286-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\green\DragonBorne.png</Source>
@@ -455,13 +295,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\DragonBorne.xnb</Output>
-      <Time>2015-04-15T19:07:30.8654703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\DragonBorne.xnb</Output>
       <Time>2015-04-15T19:17:00.6919287-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\green\DragonBorneAttack.png</Source>
@@ -469,13 +304,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\DragonBorneAttack.xnb</Output>
-      <Time>2015-04-15T19:07:30.8654703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\DragonBorneAttack.xnb</Output>
       <Time>2015-04-15T19:17:00.6919287-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\green\DragonBorneTombstone.png</Source>
@@ -483,13 +313,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\DragonBorneTombstone.xnb</Output>
-      <Time>2015-04-15T19:07:30.8664703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\DragonBorneTombstone.xnb</Output>
       <Time>2015-04-15T19:17:00.6919287-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\green\DragonBorneWalking.png</Source>
@@ -497,13 +322,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\DragonBorneWalking.xnb</Output>
-      <Time>2015-04-15T19:07:30.8664703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\DragonBorneWalking.xnb</Output>
       <Time>2015-04-15T19:17:00.6929288-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\green\Huntress.png</Source>
@@ -511,13 +331,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\Huntress.xnb</Output>
-      <Time>2015-04-15T19:07:31.0564703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\Huntress.xnb</Output>
       <Time>2015-04-15T19:17:00.6929288-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\green\HuntressAttack.png</Source>
@@ -525,13 +340,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\HuntressAttack.xnb</Output>
-      <Time>2015-04-15T19:07:30.8674703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\HuntressAttack.xnb</Output>
       <Time>2015-04-15T19:17:00.6929288-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\green\HuntressTombstone.png</Source>
@@ -539,13 +349,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\HuntressTombstone.xnb</Output>
-      <Time>2015-04-15T19:07:30.8674703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\HuntressTombstone.xnb</Output>
       <Time>2015-04-15T19:17:00.6939289-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\green\HuntressWalking.png</Source>
@@ -553,13 +358,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\HuntressWalking.xnb</Output>
-      <Time>2015-04-15T19:07:31.0554703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\HuntressWalking.xnb</Output>
       <Time>2015-04-15T19:17:00.6939289-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\green\RunicKnight.png</Source>
@@ -567,13 +367,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\RunicKnight.xnb</Output>
-      <Time>2015-04-15T19:07:30.8684703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\RunicKnight.xnb</Output>
       <Time>2015-04-15T19:17:00.6939289-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\green\RunicKnightAttack.png</Source>
@@ -581,13 +376,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\RunicKnightAttack.xnb</Output>
-      <Time>2015-04-15T19:07:30.8684703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\RunicKnightAttack.xnb</Output>
       <Time>2015-04-15T19:17:00.694929-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\green\RunicKnightTombstone.png</Source>
@@ -595,13 +385,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\RunicKnightTombstone.xnb</Output>
-      <Time>2015-04-15T19:07:30.8694703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\RunicKnightTombstone.xnb</Output>
       <Time>2015-04-15T19:17:00.694929-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\green\RunicKnightWalking.png</Source>
@@ -609,13 +394,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\RunicKnightWalking.xnb</Output>
-      <Time>2015-04-15T19:07:30.8694703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\green\RunicKnightWalking.xnb</Output>
       <Time>2015-04-15T19:17:00.694929-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\red\Cleric.png</Source>
@@ -623,13 +403,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\Cleric.xnb</Output>
-      <Time>2015-04-15T19:07:31.0544703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\Cleric.xnb</Output>
       <Time>2015-04-15T19:17:00.6959291-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\red\ClericAttack.png</Source>
@@ -637,13 +412,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\ClericAttack.xnb</Output>
-      <Time>2015-04-15T19:07:30.8704703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\ClericAttack.xnb</Output>
       <Time>2015-04-15T19:17:00.6959291-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\red\ClericTombstone.png</Source>
@@ -651,13 +421,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\ClericTombstone.xnb</Output>
-      <Time>2015-04-15T19:07:30.8704703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\ClericTombstone.xnb</Output>
       <Time>2015-04-15T19:17:00.6959291-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\red\ClericWalking.png</Source>
@@ -665,13 +430,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\ClericWalking.xnb</Output>
-      <Time>2015-04-15T19:07:31.0544703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\ClericWalking.xnb</Output>
       <Time>2015-04-15T19:17:00.6969292-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\red\DragonBorne.png</Source>
@@ -679,13 +439,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\DragonBorne.xnb</Output>
-      <Time>2015-04-15T19:07:31.0534703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\DragonBorne.xnb</Output>
       <Time>2015-04-15T19:17:00.6979293-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\red\DragonBorneAttack.png</Source>
@@ -693,13 +448,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\DragonBorneAttack.xnb</Output>
-      <Time>2015-04-15T19:07:30.8724703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\DragonBorneAttack.xnb</Output>
       <Time>2015-04-15T19:17:00.6979293-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\red\DragonBorneTombstone.png</Source>
@@ -707,13 +457,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\DragonBorneTombstone.xnb</Output>
-      <Time>2015-04-15T19:07:30.8724703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\DragonBorneTombstone.xnb</Output>
       <Time>2015-04-15T19:17:00.6979293-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\red\DragonBorneWalking.png</Source>
@@ -721,13 +466,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\DragonBorneWalking.xnb</Output>
-      <Time>2015-04-15T19:07:31.0524703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\DragonBorneWalking.xnb</Output>
       <Time>2015-04-15T19:17:00.6989294-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\red\Huntress.png</Source>
@@ -735,13 +475,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\Huntress.xnb</Output>
-      <Time>2015-04-15T19:07:30.8734703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\Huntress.xnb</Output>
       <Time>2015-04-15T19:17:00.6989294-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\red\HuntressAttack.png</Source>
@@ -749,13 +484,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\HuntressAttack.xnb</Output>
-      <Time>2015-04-15T19:07:30.8734703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\HuntressAttack.xnb</Output>
       <Time>2015-04-15T19:17:00.6989294-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\red\HuntressTombstone.png</Source>
@@ -763,13 +493,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\HuntressTombstone.xnb</Output>
-      <Time>2015-04-15T19:07:30.8744703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\HuntressTombstone.xnb</Output>
       <Time>2015-04-15T19:17:00.6999295-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\red\HuntressWalking.png</Source>
@@ -777,13 +502,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\HuntressWalking.xnb</Output>
-      <Time>2015-04-15T19:07:30.8744703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\HuntressWalking.xnb</Output>
       <Time>2015-04-15T19:17:00.6999295-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\red\RunicKnight.png</Source>
@@ -791,13 +511,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\RunicKnight.xnb</Output>
-      <Time>2015-04-15T19:07:31.0524703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\RunicKnight.xnb</Output>
       <Time>2015-04-15T19:17:00.6999295-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\red\RunicKnightAttack.png</Source>
@@ -805,13 +520,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\RunicKnightAttack.xnb</Output>
-      <Time>2015-04-15T19:07:30.8754703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\RunicKnightAttack.xnb</Output>
       <Time>2015-04-15T19:17:00.7009296-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\red\RunicKnightTombstone.png</Source>
@@ -819,13 +529,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\RunicKnightTombstone.xnb</Output>
-      <Time>2015-04-15T19:07:30.8754703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\RunicKnightTombstone.xnb</Output>
       <Time>2015-04-15T19:17:00.7009296-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\red\RunicKnightWalking.png</Source>
@@ -833,13 +538,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\RunicKnightWalking.xnb</Output>
-      <Time>2015-04-15T19:07:31.0514703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\red\RunicKnightWalking.xnb</Output>
       <Time>2015-04-15T19:17:00.7009296-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\yellow\Cleric.png</Source>
@@ -847,13 +547,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\Cleric.xnb</Output>
-      <Time>2015-04-15T19:07:30.8764703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\Cleric.xnb</Output>
       <Time>2015-04-15T19:17:00.7019297-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\yellow\ClericAttack.png</Source>
@@ -861,13 +556,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\ClericAttack.xnb</Output>
-      <Time>2015-04-15T19:07:30.8774703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\ClericAttack.xnb</Output>
       <Time>2015-04-15T19:17:00.7019297-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\yellow\ClericTombstone.png</Source>
@@ -875,13 +565,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\ClericTombstone.xnb</Output>
-      <Time>2015-04-15T19:07:30.8774703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\ClericTombstone.xnb</Output>
       <Time>2015-04-15T19:17:00.7019297-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\yellow\ClericWalking.png</Source>
@@ -889,13 +574,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\ClericWalking.xnb</Output>
-      <Time>2015-04-15T19:07:30.8784703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\ClericWalking.xnb</Output>
       <Time>2015-04-15T19:17:00.7029298-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\yellow\DragonBorne.png</Source>
@@ -903,13 +583,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\DragonBorne.xnb</Output>
-      <Time>2015-04-15T19:07:30.8784703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\DragonBorne.xnb</Output>
       <Time>2015-04-15T19:17:00.7029298-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\yellow\DragonBorneAttack.png</Source>
@@ -917,13 +592,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\DragonBorneAttack.xnb</Output>
-      <Time>2015-04-15T19:07:30.8794703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\DragonBorneAttack.xnb</Output>
       <Time>2015-04-15T19:17:00.7039299-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\yellow\DragonBorneTombstone.png</Source>
@@ -931,13 +601,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\DragonBorneTombstone.xnb</Output>
-      <Time>2015-04-15T19:07:30.8794703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\DragonBorneTombstone.xnb</Output>
       <Time>2015-04-15T19:17:00.7039299-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\yellow\DragonBorneWalking.png</Source>
@@ -945,13 +610,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\DragonBorneWalking.xnb</Output>
-      <Time>2015-04-15T19:07:30.8794703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\DragonBorneWalking.xnb</Output>
       <Time>2015-04-15T19:17:00.7039299-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\yellow\Huntress.png</Source>
@@ -959,13 +619,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\Huntress.xnb</Output>
-      <Time>2015-04-15T19:07:30.8804703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\Huntress.xnb</Output>
       <Time>2015-04-15T19:17:00.70493-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\yellow\HuntressAttack.png</Source>
@@ -973,13 +628,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\HuntressAttack.xnb</Output>
-      <Time>2015-04-15T19:07:30.8804703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\HuntressAttack.xnb</Output>
       <Time>2015-04-15T19:17:00.70493-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\yellow\HuntressTombstone.png</Source>
@@ -987,13 +637,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\HuntressTombstone.xnb</Output>
-      <Time>2015-04-15T19:07:30.8804703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\HuntressTombstone.xnb</Output>
       <Time>2015-04-15T19:17:00.70493-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\yellow\HuntressWalking.png</Source>
@@ -1001,13 +646,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\HuntressWalking.xnb</Output>
-      <Time>2015-04-15T19:07:30.8814703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\HuntressWalking.xnb</Output>
       <Time>2015-04-15T19:17:00.7059301-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\yellow\RunicKnight.png</Source>
@@ -1015,13 +655,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\RunicKnight.xnb</Output>
-      <Time>2015-04-15T19:07:30.8814703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\RunicKnight.xnb</Output>
       <Time>2015-04-15T19:17:00.7059301-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\yellow\RunicKnightAttack.png</Source>
@@ -1029,13 +664,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\RunicKnightAttack.xnb</Output>
-      <Time>2015-04-15T19:07:30.8824703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\RunicKnightAttack.xnb</Output>
       <Time>2015-04-15T19:17:00.7069302-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\yellow\RunicKnightTombstone.png</Source>
@@ -1043,13 +673,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\RunicKnightTombstone.xnb</Output>
-      <Time>2015-04-15T19:07:30.8824703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\RunicKnightTombstone.xnb</Output>
       <Time>2015-04-15T19:17:00.7069302-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>playerSprites\yellow\RunicKnightWalking.png</Source>
@@ -1057,13 +682,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\RunicKnightWalking.xnb</Output>
-      <Time>2015-04-15T19:07:30.8824703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\playerSprites\yellow\RunicKnightWalking.xnb</Output>
       <Time>2015-04-15T19:17:00.7069302-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>room\wall\Base_BlueBrickWall_LEFT.png</Source>
@@ -1071,13 +691,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\wall\Base_BlueBrickWall_LEFT.xnb</Output>
-      <Time>2015-04-15T19:07:30.8884703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\wall\Base_BlueBrickWall_LEFT.xnb</Output>
       <Time>2015-04-15T19:17:00.7119307-04:00</Time>
->>>>>>> origin/master
     </Item>
     <Item>
       <Source>room\wall\Base_BlueBrickWall_RIGHT.png</Source>
@@ -1085,10 +700,6 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-<<<<<<< HEAD
-      <Output>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\wall\Base_BlueBrickWall_RIGHT.xnb</Output>
-      <Time>2015-04-15T19:07:30.8894703-04:00</Time>
-=======
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\room\wall\Base_BlueBrickWall_RIGHT.xnb</Output>
       <Time>2015-04-15T19:17:00.7129308-04:00</Time>
     </Item>
@@ -1100,7 +711,6 @@
       <Options>None</Options>
       <Output>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\Border.xnb</Output>
       <Time>2015-04-15T19:28:52.7921316-04:00</Time>
->>>>>>> origin/master
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -1109,17 +719,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-<<<<<<< HEAD
-      <RootDirectory>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameAppContent\</RootDirectory>
-      <LoggerRootDirectory>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\</LoggerRootDirectory>
-      <IntermediateDirectory>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>D:\Other\GitHub\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\</OutputDirectory>
-=======
       <RootDirectory>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameAppContent\</RootDirectory>
       <LoggerRootDirectory>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\</LoggerRootDirectory>
       <IntermediateDirectory>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\obj\x86\Debug\</IntermediateDirectory>
       <OutputDirectory>C:\Users\NHTI\Desktop\FinalLatestRev\FinalRev3\Lab08 - TechDemo\GameApp\GameApp\bin\x86\Debug\Content\</OutputDirectory>
->>>>>>> origin/master
     </Settings>
     <Assemblies>
       <Assembly>
@@ -1148,11 +751,7 @@
       </Assembly>
       <Assembly>
         <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-<<<<<<< HEAD
-        <Value>2015-01-19T22:18:34.7951891-05:00</Value>
-=======
         <Value>2015-01-19T22:15:36.871298-05:00</Value>
->>>>>>> origin/master
       </Assembly>
     </Assemblies>
   </Asset>
