@@ -19,6 +19,7 @@ namespace Engine
         GameLevel Map;
         Sprite Border;
         Viewport defaultView;
+        int numPlayers = 4;
         
         List<Player> playerList;
         List<Viewport> viewportList;
@@ -53,7 +54,7 @@ namespace Engine
             //Player Setup
             playerList = new List<Player>();
 
-            playerList.Add(new TemplateClass(cPlayer1, pPlayer1, "One", Content));
+            playerList.Add(new Huntress(cPlayer1, pPlayer1, "One", Content));
             playerList.Add(new Cleric(cPlayer2, pPlayer2, "Two", Content));
             playerList.Add(new Dragon(cPlayer3, pPlayer3, "Three", Content));
             playerList.Add(new RunicKnight(cPlayer4, pPlayer4, "Four", Content));
@@ -67,8 +68,8 @@ namespace Engine
             //ViewPort Setup
             viewportList = new List<Viewport>();
 
-            viewportList.Add(new Viewport(0, 0, 1680, 1050));
-            //viewportList.Add(new Viewport(0, 0, 840, 525));
+            //viewportList.Add(new Viewport(0, 0, 1680, 1050));
+            viewportList.Add(new Viewport(0, 0, 840, 525));
             viewportList.Add(new Viewport(840, 0, 840, 525));
             viewportList.Add(new Viewport(0, 525, 840, 525));
             viewportList.Add(new Viewport(840, 525, 840, 525));
@@ -76,7 +77,7 @@ namespace Engine
             //Camera Setup
             cameraList = new List<Camera>();
 
-            for (int i = 0; i < 4; i++)
+            for (int i = 0; i < numPlayers; i++)
             {
                 cameraList.Add(new Camera());
             }
@@ -110,7 +111,7 @@ namespace Engine
             playerList[2].updatePadState(cPlayer3);
             playerList[3].updatePadState(cPlayer4);
 
-            for (int i = 0; i < 1; i++)
+            for (int i = 0; i < numPlayers; i++)
             {
                 playerList[i].playerUpdate(gameTime);
             }
@@ -120,7 +121,7 @@ namespace Engine
         {
             GraphicsDevice.Clear(Color.Black);
 
-            for (int i = 0; i < 1; i++)
+            for (int i = 0; i < numPlayers; i++)
             {
                 GraphicsDevice.Viewport = viewportList[i];
                 DrawSprites(gameTime, cameraList[i]);
@@ -146,7 +147,7 @@ namespace Engine
             Map.levelDraw(gameTime, spriteBatch);
 
 
-            for (int i = 0; i < 1; i++)
+            for (int i = 0; i < numPlayers; i++)
             {
                 if (playerList[i]._cCont.IsConnected)
                 {

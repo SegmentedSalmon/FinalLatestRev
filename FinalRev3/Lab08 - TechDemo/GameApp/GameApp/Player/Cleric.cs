@@ -36,8 +36,8 @@ namespace Engine
             _speed = 4;
             _specialManaCost = 100;
             _critChance = .05f;
-            classSpriteWalking = new SpriteSheet("playerSprites/blue/ClericWalking",1,2,new Vector2(96,96),140, _Content);
-            classSpriteIdle = new Sprite("playerSprites/blue/Cleric", new Vector2(96, 160), _Content);
+            classSpriteWalking = new SpriteSheet("playerSprites/yellow/ClericWalking",1,2,new Vector2(96,96),140, _Content);
+            classSpriteIdle = new Sprite("playerSprites/yellow/Cleric", new Vector2(96, 160), _Content);
             spritePosition = classSpriteIdle._position;
 
             if (index == "One")
@@ -68,15 +68,6 @@ namespace Engine
 
           
         }//end regularAttack
-
-        public override void playerDraw(GameTime gameTime, SpriteBatch spriteBatch)
-        {
-            //playerUpdate(gameTime);
-
-
-     
-       
-        }//end playerDraw
 
     }//end cleric class
 }//end namespace

@@ -69,15 +69,6 @@ namespace Engine
 
         }//end regularAttack
 
-        public override void playerDraw(GameTime gameTime, SpriteBatch spriteBatch)
-        {
-            //playerUpdate(gameTime);
-
-
-           
-
-        }//end playerDraw
-
     }//end dragon class
 
 }//end namespace
