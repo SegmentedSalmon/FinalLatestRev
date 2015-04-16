@@ -15,9 +15,6 @@ namespace Engine
 {
     public class RunicKnight : Player
     {
-        
-       
-       
         public int _attackRadius = 100;
         
         public RunicKnight() { }//default 
